@@ -1,7 +1,7 @@
 1. Decide which buisness to order from
 2. Decide which type of pizza to order
 3. Call the buisness
-4.Tell your order
+4. Tell your order to the waiter.
 5. Wait for the pizza
 6. Pay for pizza
 7. Get the delivered pizza
