@@ -3,3 +3,7 @@
 3. Call the buisness
 4.Tell your order
 5. Wait for the pizza
+6. Pay for pizza
+7. Get the delivered pizza
+8. Eat the pizza
+9. Rate the pizza 
