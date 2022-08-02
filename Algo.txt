@@ -1,0 +1,5 @@
+1. Decide which buisness to order from
+2. Decide which type of pizza to order
+3. Call the buisness
+4.Tell your order
+5. Wait for the pizza
